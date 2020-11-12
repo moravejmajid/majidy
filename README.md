@@ -1,0 +1,2 @@
+# majidy
+Farsi
